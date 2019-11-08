@@ -1,4 +1,4 @@
-=== Simple Demo Importer Plugin ===
+=== WP GIT CLI Commands ===
 
 Contributors: tristup
 Donate link: http://www.tristupghosh.com/
