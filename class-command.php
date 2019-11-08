@@ -80,6 +80,7 @@ class wp_git_push_commands extends WP_CLI_Command {
 				shell_exec('git commit -m "'.$args[0].'"');
 				shell_exec('git push origin master');
 				WP_CLI::success( "Successfully Pushed Git repository" );
+				
 			}
 			else{
 				WP_CLI::error( "Invalid Command request" );			
