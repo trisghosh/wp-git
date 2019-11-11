@@ -12,7 +12,7 @@ License: GPLv2 or later.
 == Description ==
 
 
-== Major features in Simple Theme Demo Importer include: ==
+== Major features in WP GIT include: ==
 
 
 = Recommended Plugins =
